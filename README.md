@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **I am always looking for new opportunities to learn !**
     <br>
-    <br>
 
 
 
@@ -24,14 +23,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zakaria-brahimi-6120251a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zakaria-brahimi-6120251a3/" height="30" width="40" /></a>
 </p>
     <br>
-    <br>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <br>
-    <br>
   <h4 align="left">Programming Languages :</h4>
   <ul>
     <li> JAVA  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></li>
@@ -40,7 +33,6 @@
     <li> Python  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </li>
   </ul>
   <br>
-  <br>
   <h4 align="left">Backend Development :</h4>
   <ul>
     <li> Symfony <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </li>
@@ -48,7 +40,6 @@
     <li> Laravel <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </li>
  </ul>
 
-<br>
 <br>
   <h4 align="left">Frontend Development :</h4>
   <ul>
@@ -63,15 +54,12 @@
     <li> Tailwind CSS <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </li>
 </ul>
   
-
-<br>
 <br>
   <h4 align="left">Mobile App Development :</h4>
   <ul>
     <li> Android Studio :  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     </li>
   </ul>
-<br>
 <br>
   <h4 align="left">Database :</h4>
   <ul>
@@ -80,14 +68,14 @@
     <li> PostgreSQL <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </li>
     <li> SQLite <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </li>
 </ul>
-<br>
+
 <br>
   <h4 align="left">Devops & Cloud :</h4>
   <ul>
     <li> Amazon Web Services (AWS) <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </li>
     <li> Docker <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </li>
 </ul>
-<br>
+
 <br>
   <h4 align="left">Backend as a Service(BaaS) :</h4>
   <ul>
@@ -95,7 +83,7 @@
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     </li>
   </ul>
-<br>
+
 <br>
   <h4 align="left">Testing :</h4>
   <ul>
@@ -103,7 +91,7 @@
     <li> Postman <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </li>
 </ul>
 
-<br>
+
 <br>
   <h4 align="left">Other :</h4>
   <ul>
