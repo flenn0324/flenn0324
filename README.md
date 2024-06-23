@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BRAHIMI Zakaria</h1>
 <h3 align="center">A passionate web developer</h3>
 
+I am a young web developer passionate about web development, with varied experience in several companies and projects. Holder of two Master’s degrees in Software Engineering and Reliable Software, and several certifications, including in Web Development, Symfony, and React JS. Proficient in multiple web languages, and various frameworks such as Laravel, Symfony, and React.js...
+
 - 🔭 I’m currently working on **Audi France projects**
 
 - 🌱 I’m currently learning **Symfony and Testing**
